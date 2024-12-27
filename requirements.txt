@@ -1,0 +1,20 @@
+
+---
+
+### How to Use:
+
+1-  **Install the libraries**:
+   - Create a `requirements.txt` file and paste the content above into it.
+   - To install the dependencies, run the following command in your Python environment:
+     ```bash
+     pip install -r requirements.txt
+     ```
+
+2-  **Run the project**:
+   - To run the project, execute the following command:
+     ```bash
+     python vrp_solver.py
+     ```
+
+---
+
